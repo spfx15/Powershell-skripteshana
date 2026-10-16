@@ -1,1 +1,4 @@
-
+Skrienošie servisi (Running): 147
+Apturētie servisi (Stopped): 176
+Kopējā summa: 323
+Kopējais servisu skaits sistēmā: 323
