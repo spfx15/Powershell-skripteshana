@@ -1,1 +1,2 @@
-
+Kļūdu skaits: 144
+Visbiežākais avots: DCOM (ierakstu skaits: 116)
