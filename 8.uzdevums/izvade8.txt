@@ -1,0 +1,3 @@
+Get-Service laiks: 29.2354 ms.
+Get-CimInstance laiks: 612.6542 ms.
+Ātrāks bija Get-Service.
