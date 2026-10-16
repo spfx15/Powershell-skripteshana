@@ -1,0 +1,12 @@
+Nosaukums    Id Atmiņa (MB)
+---------    -- -----------
+su_worker 18116       287.8
+chrome    25520       288.2
+chrome    22192       296.8
+chrome    21516       313.4
+chrome    25892       328.8
+chrome    22244       343.4
+explorer  13996       371.3
+chrome     2880       438.9
+chrome    10376       441.9
+Discord   21844       509.3
